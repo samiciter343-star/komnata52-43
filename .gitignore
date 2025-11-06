@@ -1,0 +1,14 @@
+# Жүйелік файлдар
+ntuser.*
+OneDrive/
+Saved Games/
+Searches/
+
+# VSCode Extensions
+.vscode/
+node_modules/
+
+# Жалпы
+*.log
+*.tmpЫ
+
